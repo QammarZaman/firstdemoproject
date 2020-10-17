@@ -4,6 +4,8 @@ Added
 
 git add . { add all files to staging in a directory }
 
+git commit -m "Your Message here"
+
 git reset { remove file from staging but changes has been tracked}
 
 git reset --hard { remove file from staging and also file status change from tracked to untracked file}
