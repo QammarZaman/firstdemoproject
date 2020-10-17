@@ -17,3 +17,15 @@ git log { Git Log}
 
 To Ignore the Files we have to create the file .gitignore
 es file k ander jo file likhein ge wo ignore ho jai gi or git VCS ka part nai baney gi or na hi Staging k liye show hon gi
+
+
+Working with branches
+
+Show branch list command { git branch }
+
+for making new branch { git branch "name of new branch"}
+
+
+
+
+
