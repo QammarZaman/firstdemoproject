@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-
-
-
 New change via dev branch
-=======
 New Change in five.txt via master branch
->>>>>>> master
