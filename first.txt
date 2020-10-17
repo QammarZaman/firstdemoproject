@@ -28,6 +28,13 @@ for making new branch { git branch "name of new branch"}
 
 for switching to newly created branch { git checkout "new branch name" }
 
+<<<<<<< HEAD
+Branches me difference dekhny k liye { git log {branch name 1}..{branch name 2} }
+
+Merging Branch Command { git merge "Branch Name" } In this way ap apni current branch ko jis bhi branch k sath merge karnaa chaho ge merge ho jai gi or dono ka code same ho jai ga
+
+=======
+>>>>>>> dev
 
 
 
