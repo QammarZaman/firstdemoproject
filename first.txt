@@ -10,3 +10,10 @@ git reset { remove file from staging but changes has been tracked}
 
 git reset --hard { remove file from staging and also file status change from tracked to untracked file}
 
+git status { Git ka Status check karney k liye}
+
+git log { Git Log}
+
+
+To Ignore the Files we have to create the file .gitignore
+es file k ander jo file likhein ge wo ignore ho jai gi or git VCS ka part nai baney gi or na hi Staging k liye show hon gi
