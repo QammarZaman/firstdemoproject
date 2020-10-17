@@ -32,12 +32,15 @@ Branches me difference dekhny k liye { git log {branch name 1}..{branch name 2} 
 
 Merging Branch Command { git merge "Branch Name" } In this way ap apni current branch ko jis bhi branch k sath merge karnaa chaho ge merge ho jai gi or dono ka code same ho jai ga
 
-<<<<<<< HEAD
-=======
+Stash
+change in a file or branch or ap ne ab new branch par jana hai commit kiye begair to ap karei ge
 
- 
+git stash  : es se file locally temporary memory me save ho jati hain or ap dosri branch me move ho saktey ho then jab ap waps aao to apni changes restore kar saktey ho es command se "git stash pop" es se jo last stash ho ga vo usi file me ja k recover ho jai ga
+
+git stash list : ye hamein saved stash's ki list de gi
+
+git stash "stash@{"number"}" number ki jaga pe stash ka number likhei ge vo stash restore bhi hoga or remove bhi nai hoga es ka faida ye hai k hum future me bhi es stash ko dobara restore kar saktey hain
 
 
->>>>>>> master
 
 
