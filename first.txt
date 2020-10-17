@@ -26,6 +26,10 @@ Show branch list command { git branch }
 for making new branch { git branch "name of new branch"}
 
 
+for switching to newly created branch { git checkout "new branch name" }
+
+Branches me difference dekhny k liye { git log {branch name 1}..{branch name 2} }
+
 
 
 
